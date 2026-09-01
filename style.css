@@ -3,6 +3,8 @@
     width: 20em;
     border-radius: 2em;
     overflow: hidden;
+    margin: auto;
+    margin-top: 150px;
 }
 
 .cat {
